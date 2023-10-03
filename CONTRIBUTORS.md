@@ -1,3 +1,8 @@
+#### Name: [Abhinav Jain](https://github.com/abhiinavjain)
+- Place: Jabalpur, Madhya Pradesh, India
+- Bio: Budding software developer, studying B Tech Computer Science
+- GitHub: [abhiinavjain](https://github.com/abhiinavjain)
+  
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
